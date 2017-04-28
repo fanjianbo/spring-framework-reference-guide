@@ -5,7 +5,7 @@ Hello，大家好，我是灰机。灰机的灰，灰机的机......
 
 ## Motivation
 * spring io platform家族不断壮大，各个模块版本更新速度飞起。
-* 最近在学习微服务架构，打算用Spring Cloud的current release版本，但发现无论是Spring Boot还是spring framework、data等基础模块都有了很多新特性。有些会简单的使用，有些仅限于了解，更多的是听都没听过，**所以打算重新撸一遍Spring framework的reference guide，并借此机会完成中文翻译，顺便联系一下英文**
+* 最近在学习微服务架构，打算用Spring Cloud的current release版本，但发现无论是Spring Boot还是spring framework、data等基础模块都有了很多新特性。有些会简单的使用，有些仅限于了解，更多的是听都没听过，**所以打算重新撸一遍Spring framework的reference guide，并借此机会完成中文翻译，顺便练习一下英文阅读**
 
 
 ## Cooperation
