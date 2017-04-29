@@ -6,6 +6,7 @@ Hello，大家好，我是灰机。灰机的灰，灰机的机......
 * 使用```MarkdownPad 2```作为markdown的编写工具，
 * ```markdown processor```使用Github Flavored Markdown
 * 详细设置如下
+
 ![](https://github.com/fanjianbo/picture/blob/master/res/markdownpad2%E8%AE%BE%E7%BD%AE.png?raw=true)
 
 ## Motivation
