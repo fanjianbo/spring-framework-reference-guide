@@ -3,6 +3,11 @@ spring-framework-reference-guide中文版翻译(基于4.3.8.RELEASE)
 
 Hello，大家好，我是灰机。灰机的灰，灰机的机......
 
+* 使用```MarkdownPad 2```作为markdown的编写工具，
+* ```markdown processor```使用Github Flavored Markdown
+* 详细设置如下
+![](https://github.com/fanjianbo/picture/blob/master/res/markdownpad2%E8%AE%BE%E7%BD%AE.png?raw=true)
+
 ## Motivation
 * spring io platform家族不断壮大，各个模块版本更新速度飞起。
 * 最近在学习微服务架构，打算用Spring Cloud的current release版本，但发现无论是Spring Boot还是spring framework、data等基础模块都有了很多新特性。有些会简单的使用，有些仅限于了解，更多的是听都没听过，**所以打算重新撸一遍Spring framework的reference guide，并借此机会完成中文翻译，顺便练习一下英文阅读**
